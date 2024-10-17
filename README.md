@@ -1,5 +1,7 @@
+Here’s an updated `README.md` file tailored to your project with the GitHub link you provided:
 
-# Solar Solutions Inspired Project
+```markdown
+# Demo Website
 
 This project is a modern, responsive web application inspired by Solahart's website, built using React and Vite. The application showcases a variety of solar energy products, their descriptions, and an engaging user interface.
 
@@ -19,11 +21,11 @@ This project is a modern, responsive web application inspired by Solahart's webs
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/rowhhit/Demo-website.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Demo-website
    ```
 3. Install dependencies:
    ```bash
@@ -47,3 +49,6 @@ Contributions are welcome! Please submit a pull request or open an issue.
 
 This project is licensed under the MIT License.
 ```
+
+### Instructions:
+- This updated README file includes the specific repository link you provided. Make sure to modify any additional details or sections as needed!
