@@ -1,6 +1,4 @@
-Here’s an updated `README.md` file tailored to your project with the GitHub link you provided:
 
-```markdown
 # Demo Website
 
 This project is a modern, responsive web application inspired by Solahart's website, built using React and Vite. The application showcases a variety of solar energy products, their descriptions, and an engaging user interface.
